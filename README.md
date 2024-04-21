@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Here's my [Resume](vignesh_resume.pdf)
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on open source projects and professional projects
 - 💬 Ask me about Web Technologies
 - 😄 Pronouns: vicky/vignesh
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 ## Currently learning 
 
 &nbsp;&nbsp;&nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img width="48" height="48" src="https://img.icons8.com/fluency/48/parallel-tasks--v1.png" alt="parallel-tasks--v1"/>
-ffff
+
+
+([![vicky-at-web's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vicky-at-web&bg_color=000000&color=ffffff&line=4c7f9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
