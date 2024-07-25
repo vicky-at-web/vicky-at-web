@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 
 ## LeetCode Stats
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![LeetCode Stats](https://leetcard.jacoblin.cool/vicky-codes?theme=dark&font=Alata)
+
+[![vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicky-at-web)](https://github.com/anuraghazra/github-readme-stats)
